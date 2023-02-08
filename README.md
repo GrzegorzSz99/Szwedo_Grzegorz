@@ -5,6 +5,7 @@
 
 ### Projekt powinien zawierać:
 
+/*!
 *# repozytorium w serwisie github
 *# plik README.md i plik licencji
 *# etykiety
@@ -12,4 +13,4 @@
 *# wzory matematyczne
 *# dokumentacja w formie dodatkowych stron
 *# gałąź 'hotfix'i deklaracje oraz definicje klasy 'ErrorHandle'
-
+*/
